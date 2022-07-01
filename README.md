@@ -10,16 +10,18 @@
 - Major languages HTML and CSS.
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
-
+## Linters and Formatting 
+The linting tool used in the project is stylelint. 
+To validate the code format run the command `` npx stylelint "**/*.{css,scss}"``
+To correct any wrong format run the command `` npx stylelint "**/*.{css,scss}" --fix``
 
 ## Launching App
-To  run the app locally click the ``Go Live`` button at the bottom right section of VSCode which will launch
-app and be accessible on the link 
+To  run the app locally click on the ``Go Live`` button at the bottom right section of VSCode. 
+This launches the app on the url `http://127.0.0.1:5500/`
 
 ## Authors
 
-👤 **Author1**
+👤 **Gilbert**
 - GitHub: [@githubhandle](https://github.com/OpondoG)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/gilbert-okonjo-2081331b9/)
 
